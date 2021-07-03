@@ -1,0 +1,130 @@
+body {
+    background-color: #d1d8e0;
+    margin: 0 auto;
+    width: 960px;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+        sans-serif;
+}
+h1 {
+    color: #ffffff;
+    background-color: #30336b;
+    margin: 0;
+    text-align: center;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+.busy_text {
+    width: auto;
+    height: 160px;
+    background-color: #1dc470;
+    border-radius: 5px;
+    margin: 5px 0;
+}
+.busy_text marquee {
+    text-align: center;
+    font-size: 40px;
+    padding: 10px;
+    color: #055f8f;
+}
+.about {
+    background-color: #927165;
+    text-align: center;
+    margin: 10px 0;
+    border-radius: 5px;
+}
+.about h3 {
+    background-color: #006266;
+    margin-bottom: 0;
+    font-size: 25px;
+    padding: 5px;
+}
+.about h3 abbr {
+    text-decoration: none;
+}
+.about p {
+    font-size: 22px;
+    text-align: justify;
+    height: auto;
+    color: #edff47;
+    padding: 10px;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+.about img {
+    margin: 0;
+    padding: 0;
+}
+.place {
+    background-color: #7f83bf;
+    margin: 10px 0;
+    height: auto;
+}
+.place h3 {
+    text-align: center;
+    color: #ffbe76;
+    background-color: #130f40;
+    padding: 8px;
+}
+.place a {
+    text-decoration: none;
+    color: wheat;
+    font-size: 20px;
+}
+
+.cox_bazer,
+.sajek,
+.Jaflong h4 {
+    text-align: center;
+    display: inline-block;
+    color: #fff;
+    background-color: #34495e;
+}
+image image {
+    width: 400px;
+    height: auto;
+}
+.text p {
+    text-align: center;
+    font-size: 18px;
+    color: wheat;
+}
+
+.form {
+    background-color: #d6d3a9;
+    width: 620px;
+    float: left;
+    border: 2px solid indigo;
+    margin: 3px;
+    padding: 10px;
+    text-align: center;
+}
+.form label {
+    font-size: 18px;
+    color: #055f8f;
+}
+.form input {
+    padding: 5px;
+    width: 80%;
+    border-radius: 5px;
+    border: none;
+}
+.form input[type="submit"] {
+    width: 25%;
+    padding: 5px;
+    color: #ffffff;
+    background-color: #7d88ff;
+    border-radius: 5px;
+    border: none;
+}
+
+.footer {
+    width: 300px;
+    margin: 5px;
+    float: right;
+}
+.footer p {
+    text-align: center;
+    font-size: 14px;
+    padding: 20px 10px 10px 10px;
+    margin: 70px 20px;
+}
